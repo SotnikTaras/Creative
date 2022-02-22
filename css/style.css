@@ -79,7 +79,8 @@ header {
 .main_section {
     padding-top: 344px;
     height: 100vh;
-    background: url('../images/milk_background.png');
+    background: url('../images/milk_background.png')
+    center no-repeat;
     background-size: cover;
 }
 
